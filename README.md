@@ -1,1 +1,190 @@
-# Data-Analytics-Portfolio
+# Data Analytics Portfolio
+
+Welcome!
+
+I'm **Felipe Andrade**, a **Data Analyst** and **PhD researcher** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and machine learning.
+
+My background in scientific research has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows. Today, I apply these same skills to solve business problems in customer analytics, business intelligence, and data visualization.
+
+This repository serves as an index of my main data analytics projects, covering Business Intelligence, Analytics Engineering, Machine Learning, Statistical Analysis, and Scientific Data Science.
+
+---
+
+# Technical Skills
+
+### Analytics & Business Intelligence
+
+* Business Intelligence (BI)
+* Analytics Engineering
+* Customer Analytics
+* KPI Design
+* Dashboard Development
+* Business Storytelling
+* Data Visualization
+* SQL Analytics
+* Data Modeling
+* Star Schema
+* Semantic Layer Design
+* ETL Pipelines
+
+### Statistics & Machine Learning
+
+* Exploratory Data Analysis (EDA)
+* Statistical Inference
+* Hypothesis Testing
+* Parametric & Non-Parametric Statistics
+* Permutation Tests
+* Multivariate Analysis
+* Random Forest
+* Classification Models
+* Feature Importance Analysis
+* Predictive Modeling
+
+---
+
+# Tools & Technologies
+
+* PostgreSQL
+* SQL
+* Power BI
+* DAX
+* Power Query (M)
+* Python
+* R
+* Git
+* GitHub
+* Excel
+* DBeaver
+
+---
+
+# ⭐ Featured Business Analytics Projects
+
+These projects demonstrate my ability to solve business problems using modern analytics workflows.
+
+| Project                                                                                                                             | Domain                                    | Technologies                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------ |
+| ⭐ **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
+| **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)**                                 | Data Engineering                          | PostgreSQL, SQL, ETL                                               |
+| **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)**               | Exploratory Data Analysis                 | Python, Pandas, Plotly                                             |
+| **[Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard)**              | Business Intelligence                     | Power BI, DAX                                                      |
+| **[Meu Placar – Sports Analytics Dashboard](https://github.com/felipeandrade91/meuplacar)**                                         | Sports Analytics                          | Power BI Concepts, KPI Design, Low-code                            |
+
+---
+
+# Scientific Data Science Projects
+
+These repositories demonstrate the application of statistical modeling and machine learning to real-world biological datasets.
+
+| Project                                                                                                 | Main Techniques                                              |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **[Pseudopaludicola coracoralinae](https://github.com/felipeandrade91/Pseudopaludicola-coracoralinae)** | Random Forest, Feature Importance, Statistical Analysis      |
+| **[Pseudopaludicola matuta](https://github.com/felipeandrade91/Pseudopaludicola-matuta)**               | Random Forest, Permutation Statistics, Multivariate Analysis |
+| **[Pseudopaludicola florencei](https://github.com/felipeandrade91/Pseudopaludicola-florencei)**         | Multi-Class Classification, Machine Learning                 |
+| **[A New Charismatic Monkey Frog](https://github.com/felipeandrade91/A-new-charismatic-monkey-frog)**   | Statistical Modeling, Morphometrics, Machine Learning        |
+
+---
+
+# Project Highlights
+
+## ⭐ Customer Analytics for Brazilian E-commerce
+
+**Repository**
+
+https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
+
+### Highlights
+
+* End-to-end Analytics Engineering workflow
+* PostgreSQL analytical database
+* SQL semantic layer
+* Star Schema implementation
+* Business-oriented SQL views
+* Data quality validation
+* Interactive Power BI dashboard
+* Customer Analytics
+* Sales Performance Analysis
+* Logistics Performance Analysis
+* Customer Satisfaction Analysis
+
+---
+
+## GBIF Amphibian Data Pipeline
+
+**Repository**
+
+https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline
+
+### Highlights
+
+* SQL ETL Pipeline
+* Large-scale Data Cleaning
+* Schema Normalization
+* Regex-based Standardization
+* Feature Engineering
+* Data Quality Assessment
+
+---
+
+## GBIF Amphibian Data Analysis (Python)
+
+**Repository**
+
+https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis
+
+### Highlights
+
+* Exploratory Data Analysis (EDA)
+* Spatial Analysis
+* Temporal Trend Analysis
+* Poisson GLM Regression
+* Species Accumulation Curves
+* Rarefaction Analysis
+* Sampling Bias Detection
+* Interactive Plotly Visualizations
+
+---
+
+## Brazilian Anuran Biodiversity Dashboard
+
+Interactive dashboard developed in Power BI.
+
+### Highlights
+
+* Executive KPIs
+* Taxonomic Diversity
+* Geographic Analysis
+* Temporal Analysis
+* Interactive Filtering
+* Business-style Dashboard Design
+
+---
+
+## Meu Placar – Sports Analytics Dashboard
+
+Interactive web application for football performance analytics.
+
+### Highlights
+
+* KPI Dashboard
+* Time-series Analysis
+* Historical Performance Tracking
+* Data Visualization
+* Progressive Web App (PWA)
+
+---
+
+# Selected Achievements
+
+* 28 peer-reviewed scientific publications
+* Description of 13 new amphibian species
+* More than 15 years working with complex real-world datasets
+* Extensive experience in reproducible analytical workflows
+* Strong analytical background combining scientific research and business analytics
+
+---
+
+# Connect
+
+* **GitHub:** https://github.com/felipeandrade91
+* **LinkedIn:** https://linkedin.com/in/felipeandrade91
