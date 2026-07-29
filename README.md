@@ -8,6 +8,8 @@ My background in scientific research has strengthened my analytical thinking, hy
 
 This repository serves as an index of my main data analytics projects, covering Business Intelligence, Analytics Engineering, Machine Learning, Statistical Analysis, and Scientific Data Science.
 
+My portfolio demonstrates an end-to-end analytical workflow, from data engineering and SQL-based analytical modeling to customer insights, visualization, and statistical analysis.
+
 ---
 
 # Technical Skills
@@ -17,6 +19,8 @@ This repository serves as an index of my main data analytics projects, covering 
 * Business Intelligence (BI)
 * Analytics Engineering
 * Customer Analytics
+* Customer Segmentation
+* Customer Lifetime Value (CLV)
 * KPI Design
 * Dashboard Development
 * Business Storytelling
@@ -62,13 +66,14 @@ This repository serves as an index of my main data analytics projects, covering 
 
 These projects demonstrate my ability to solve business problems using modern analytics workflows.
 
-| Project                                                                                                                             | Domain                                    | Technologies                                                       |
+| Project | Domain | Technologies |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------ |
-| ⭐ **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
-| **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)**                                 | Data Engineering                          | PostgreSQL, SQL, ETL                                               |
-| **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)**               | Exploratory Data Analysis                 | Python, Pandas, Plotly                                             |
-| **[Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard)**              | Business Intelligence                     | Power BI, DAX                                                      |
-| **[Meu Placar – Sports Analytics Dashboard](https://github.com/felipeandrade91/meuplacar)**                                         | Sports Analytics                          | Power BI Concepts, KPI Design, Low-code                            |
+| ⭐ **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-Ecommerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
+| ⭐ **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
+| **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)** | Data Engineering | PostgreSQL, SQL, ETL |
+| **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)** | Exploratory Data Analysis | Python, Pandas, Plotly |
+| **[Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard)** | Business Intelligence | Power BI, DAX |
+| **[Meu Placar – Sports Analytics Dashboard](https://github.com/felipeandrade91/meuplacar)** | Sports Analytics | Power BI Concepts, KPI Design, Low-code |
 
 ---
 
@@ -106,6 +111,33 @@ https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
 * Sales Performance Analysis
 * Logistics Performance Analysis
 * Customer Satisfaction Analysis
+
+---
+
+## ⭐ Customer Segmentation & Customer Lifetime Value Analytics
+
+**Repository**
+
+https://github.com/felipeandrade91/customer-segmentation-clv
+
+### Highlights
+
+* Customer-level analytical feature engineering
+* RFM customer segmentation
+* Historical Customer Lifetime Value (CLV) analysis
+* Revenue concentration analysis
+* Customer value distribution analysis
+* PostgreSQL analytical workflows
+* Python-based analytical visualization
+* Business-oriented customer insights
+
+### Relationship with previous project
+
+This project extends the analytical foundation developed in:
+
+**Customer Analytics for Brazilian E-commerce**
+
+While the previous project focused on building an Analytics Engineering and Business Intelligence environment, this project applies customer intelligence techniques to transform transactional data into customer-level insights.
 
 ---
 
