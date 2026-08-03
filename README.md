@@ -68,8 +68,9 @@ These projects demonstrate my ability to solve business problems using modern an
 
 | Project | Domain | Technologies |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------ |
-| ⭐ **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-Ecommerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
-| ⭐ **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
+| **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-Ecommerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
+| **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
+| **Customer Churn Prediction | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
 | **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)** | Data Engineering | PostgreSQL, SQL, ETL |
 | **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)** | Exploratory Data Analysis | Python, Pandas, Plotly |
 | **[Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard)** | Business Intelligence | Power BI, DAX |
@@ -138,6 +139,27 @@ This project extends the analytical foundation developed in:
 **Customer Analytics for Brazilian E-commerce**
 
 While the previous project focused on building an Analytics Engineering and Business Intelligence environment, this project applies customer intelligence techniques to transform transactional data into customer-level insights.
+
+---
+
+## ⭐ Customer Churn Prediction
+
+**Repository**
+
+https://github.com/felipeandrade91/customer-churn-prediction
+
+### Highlights
+* End-to-end Machine Learning workflow
+* PostgreSQL-based data preparation
+* SQL data quality validation
+* Feature engineering and analytical dataset construction
+* Exploratory Data Analysis (EDA)
+* Statistical feature evaluation
+* Customer churn classification models
+* Logistic Regression, Random Forest and XGBoost evaluation
+* ROC-AUC based model comparison
+* Feature importance analysis
+* Business-oriented churn insights and retention recommendations
 
 ---
 
