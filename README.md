@@ -70,7 +70,7 @@ These projects demonstrate my ability to solve business problems using modern an
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------ |
 | **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-Ecommerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
 | **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
-| **Customer Churn Prediction | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
+| **[Customer Churn Prediction](https://github.com/felipeandrade91/customer-churn-prediction)** | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
 | **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)** | Data Engineering | PostgreSQL, SQL, ETL |
 | **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)** | Exploratory Data Analysis | Python, Pandas, Plotly |
 | **[Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard)** | Business Intelligence | Power BI, DAX |
