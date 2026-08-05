@@ -43,6 +43,12 @@ My portfolio demonstrates an end-to-end analytical workflow, from data engineeri
 * Classification Models
 * Feature Importance Analysis
 * Predictive Modeling
+* Time Series Forecasting
+* Regression Models
+* Ensemble Learning
+* XGBoost
+* Model Evaluation (MAE, RMSE, R²)
+* Temporal Feature Engineering
 
 ---
 
@@ -59,6 +65,10 @@ My portfolio demonstrates an end-to-end analytical workflow, from data engineeri
 * GitHub
 * Excel
 * DBeaver
+* Scikit-learn
+* XGBoost
+* Pandas
+* Jupyter Notebook
 
 ---
 
@@ -71,6 +81,7 @@ These projects demonstrate my ability to solve business problems using modern an
 | **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-Ecommerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
 | **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
 | **[Customer Churn Prediction](https://github.com/felipeandrade91/customer-churn-prediction)** | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
+| **[Sales Forecasting with Machine Learning - Rossmann Stores](https://github.com/felipeandrade91/sales-forecasting-rossmann)** | Machine Learning, Time Series Forecasting, Retail Analytics | PostgreSQL, Python, Pandas, Scikit-learn, XGBoost, Feature Engineering |
 | **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)** | Data Engineering | PostgreSQL, SQL, ETL |
 | **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)** | Exploratory Data Analysis | Python, Pandas, Plotly |
 | **[Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Diversity-Dashboard)** | Business Intelligence | Power BI, DAX |
@@ -160,6 +171,39 @@ https://github.com/felipeandrade91/customer-churn-prediction
 * ROC-AUC based model comparison
 * Feature importance analysis
 * Business-oriented churn insights and retention recommendations
+
+---
+
+## ⭐ Sales Forecasting with Machine Learning - Rossmann Stores
+
+**Repository**
+
+https://github.com/felipeandrade91/sales-forecasting-rossmann
+
+### Highlights
+
+* End-to-end Machine Learning workflow
+* PostgreSQL-based data preparation
+* Exploratory Time Series Analysis
+* Temporal feature engineering
+* Lag feature creation
+* Rolling window features
+* Regression modeling for sales prediction
+* Linear Regression, Random Forest and XGBoost evaluation
+* Model comparison using MAE, RMSE and R²
+* Feature importance analysis
+* Prediction performance evaluation
+* Retail-oriented forecasting insights
+
+### Final Model Performance
+
+The final XGBoost model achieved:
+
+* MAE: 530.89
+* RMSE: 822.87
+* R²: 0.954
+
+The model successfully captured historical sales patterns and business-related factors, demonstrating the application of machine learning for retail demand forecasting.
 
 ---
 
