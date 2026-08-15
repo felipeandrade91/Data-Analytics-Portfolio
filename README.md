@@ -78,7 +78,7 @@ These projects demonstrate my ability to solve business problems using modern an
 
 | Project | Domain | Technologies |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------ |
-| **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-Ecommerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
+| **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
 | **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
 | **[Customer Churn Prediction](https://github.com/felipeandrade91/customer-churn-prediction)** | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
 | **[Sales Forecasting with Machine Learning - Rossmann Stores](https://github.com/felipeandrade91/sales-forecasting-rossmann)** | Machine Learning, Time Series Forecasting, Retail Analytics | PostgreSQL, Python, Pandas, Scikit-learn, XGBoost, Feature Engineering |
