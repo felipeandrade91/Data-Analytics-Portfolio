@@ -49,6 +49,12 @@ My portfolio demonstrates an end-to-end analytical workflow, from data engineeri
 * XGBoost
 * Model Evaluation (MAE, RMSE, R²)
 * Temporal Feature Engineering
+* Model Deployment
+* REST APIs for Machine Learning
+* FastAPI
+* Docker
+* Docker Compose
+* Model Serialization
 
 ---
 
@@ -69,6 +75,12 @@ My portfolio demonstrates an end-to-end analytical workflow, from data engineeri
 * XGBoost
 * Pandas
 * Jupyter Notebook
+* FastAPI
+* Pydantic
+* Docker
+* Docker Compose
+* Pytest
+* Joblib
 
 ---
 
@@ -81,6 +93,7 @@ These projects demonstrate my ability to solve business problems using modern an
 | **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
 | **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
 | **[Customer Churn Prediction](https://github.com/felipeandrade91/customer-churn-prediction)** | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
+| **[Customer Churn Prediction API](https://github.com/felipeandrade91/customer-churn-api)** | Machine Learning Deployment, API Development | Python, FastAPI, Scikit-learn, Pydantic, Docker, Docker Compose, Pytest |
 | **[Sales Forecasting with Machine Learning - Rossmann Stores](https://github.com/felipeandrade91/sales-forecasting-rossmann)** | Machine Learning, Time Series Forecasting, Retail Analytics | PostgreSQL, Python, Pandas, Scikit-learn, XGBoost, Feature Engineering |
 | **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)** | Data Engineering | PostgreSQL, SQL, ETL |
 | **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)** | Exploratory Data Analysis | Python, Pandas, Plotly |
@@ -171,6 +184,39 @@ https://github.com/felipeandrade91/customer-churn-prediction
 * ROC-AUC based model comparison
 * Feature importance analysis
 * Business-oriented churn insights and retention recommendations
+
+---
+
+## ⭐ Customer Churn Prediction API
+
+**Repository**
+
+https://github.com/felipeandrade91/customer-churn-api
+
+### Highlights
+
+* Machine Learning model deployment
+* REST API development with FastAPI
+* Pydantic-based input validation
+* Scikit-learn Pipeline inference
+* Model serialization with Joblib
+* Automated API testing with Pytest
+* Docker containerization
+* Docker Compose deployment
+* Interactive API documentation with Swagger UI
+* Production-oriented API architecture
+
+### Relationship with previous project
+
+This project extends the machine learning workflow developed in:
+
+**Customer Churn Prediction**
+
+While the previous project focuses on data preparation, exploratory analysis, feature engineering, model development and evaluation, this repository focuses on deploying the trained model as a containerized REST API.
+
+Together, the two projects demonstrate the progression from:
+
+**Machine Learning → Model Deployment → REST API → Containerization**
 
 ---
 
