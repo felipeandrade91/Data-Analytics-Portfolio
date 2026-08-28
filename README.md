@@ -10,6 +10,8 @@ This repository serves as an index of my main data analytics projects, covering 
 
 My portfolio demonstrates an end-to-end analytical workflow, from data engineering and SQL-based analytical modeling to customer insights, visualization, and statistical analysis.
 
+I also develop data engineering solutions using distributed processing and lakehouse architectures, with a focus on scalable ingestion, data quality, incremental pipelines, and analytical data modeling.
+
 ---
 
 # Technical Skills
@@ -81,6 +83,11 @@ My portfolio demonstrates an end-to-end analytical workflow, from data engineeri
 * Docker Compose
 * Pytest
 * Joblib
+* PySpark
+* Databricks
+* Delta Lake
+* Parquet
+
 
 ---
 
@@ -91,6 +98,7 @@ These projects demonstrate my ability to solve business problems using modern an
 | Project | Domain | Technologies |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------ |
 | **[Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce)** | Customer Analytics, Business Intelligence | PostgreSQL, SQL, Power BI, DAX, Star Schema, Analytics Engineering |
+| **[NYC Taxi Data Engineering Platform](https://github.com/felipeandrade91/nyc-taxi-data-engineering)** | Data Engineering, Lakehouse Architecture | Databricks, PySpark, Delta Lake, Python, SQL, Medallion Architecture, Incremental Processing |
 | **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
 | **[Customer Churn Prediction](https://github.com/felipeandrade91/customer-churn-prediction)** | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
 | **[Customer Churn Prediction API](https://github.com/felipeandrade91/customer-churn-api)** | Machine Learning Deployment, API Development | Python, FastAPI, Scikit-learn, Pydantic, Docker, Docker Compose, Pytest |
@@ -136,6 +144,36 @@ https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce
 * Sales Performance Analysis
 * Logistics Performance Analysis
 * Customer Satisfaction Analysis
+
+---
+
+## ⭐ NYC Taxi Data Engineering Platform
+
+**Repository**
+
+https://github.com/felipeandrade91/nyc-taxi-data-engineering
+
+### Highlights
+
+* End-to-end Data Engineering pipeline
+* Databricks and PySpark distributed processing
+* Medallion Architecture (Bronze, Silver and Gold)
+* Delta Lake data storage
+* Incremental monthly data processing
+* Data quality validation and monitoring
+* Dimensional data modeling
+* Fact and dimension tables
+* Referential integrity validation
+* Analytical data layer
+* Processing of 38+ million NYC Yellow Taxi trips
+
+### Architecture
+
+**Raw Parquet → Bronze → Silver → Gold → Analytics**
+
+The project demonstrates the progression from raw data ingestion to validated analytical datasets, with incremental processing and data quality controls applied throughout the pipeline.
+
+The analytical layer provides reusable Gold tables for downstream SQL analysis and BI workloads.
 
 ---
 
