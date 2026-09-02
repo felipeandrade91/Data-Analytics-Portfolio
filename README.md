@@ -38,6 +38,16 @@ I also develop data engineering solutions using distributed processing and lakeh
 * Exploratory Data Analysis (EDA)
 * Statistical Inference
 * Hypothesis Testing
+* A/B Testing
+* Causal Inference
+* Treatment Effect Estimation
+* Average Treatment Effect (ATE)
+* Conditional Average Treatment Effect (CATE)
+* Propensity Score Matching (PSM)
+* Inverse Probability Weighting (IPW)
+* Double Machine Learning (DML)
+* Causal Forest
+* Incrementality Analysis
 * Parametric & Non-Parametric Statistics
 * Permutation Tests
 * Multivariate Analysis
@@ -102,6 +112,7 @@ These projects demonstrate my ability to solve business problems using modern an
 | **[Customer Segmentation & Customer Lifetime Value Analytics](https://github.com/felipeandrade91/customer-segmentation-clv)** | Customer Analytics, Customer Intelligence | PostgreSQL, SQL, Python, Pandas, Matplotlib, RFM, CLV |
 | **[Customer Churn Prediction](https://github.com/felipeandrade91/customer-churn-prediction)** | Machine Learning, Customer Analytics | PostgreSQL, SQL, Python, Scikit-learn, XGBoost, Predictive Modeling, Classification |
 | **[Customer Churn Prediction API](https://github.com/felipeandrade91/customer-churn-api)** | Machine Learning Deployment, API Development | Python, FastAPI, Scikit-learn, Pydantic, Docker, Docker Compose, Pytest |
+| **[Causal Inference & Experimentation](https://github.com/felipeandrade91/causal-inference-experimentation)** | Causal Inference, Experimentation, Marketing Analytics | Python, A/B Testing, PSM, IPW, Double Machine Learning, Causal Forest, EconML |
 | **[Sales Forecasting with Machine Learning - Rossmann Stores](https://github.com/felipeandrade91/sales-forecasting-rossmann)** | Machine Learning, Time Series Forecasting, Retail Analytics | PostgreSQL, Python, Pandas, Scikit-learn, XGBoost, Feature Engineering |
 | **[GBIF Amphibian Data Pipeline](https://github.com/felipeandrade91/gbif-amphibians-etl-pipeline)** | Data Engineering | PostgreSQL, SQL, ETL |
 | **[GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis)** | Exploratory Data Analysis | Python, Pandas, Plotly |
@@ -255,6 +266,28 @@ While the previous project focuses on data preparation, exploratory analysis, fe
 Together, the two projects demonstrate the progression from:
 
 **Machine Learning → Model Deployment → REST API → Containerization**
+
+---
+
+## ⭐ Causal Inference & Experimentation
+
+**Repository**
+
+https://github.com/felipeandrade91/causal-inference-experimentation
+
+### Highlights
+
+* A/B Testing and randomized experiment analysis
+* Average Treatment Effect (ATE) estimation
+* Statistical inference and confidence intervals
+* Propensity Score Matching (PSM)
+* Inverse Probability Weighting (IPW)
+* Double Machine Learning (DML)
+* Conditional Average Treatment Effect (CATE)
+* Causal Forest modeling
+* Treatment effect heterogeneity analysis
+* Incrementality-focused marketing analysis
+* Comparison of experimental, observational and Machine Learning-based causal estimates
 
 ---
 
