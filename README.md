@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm **Felipe Andrade**, a **Data Analyst** and **PhD** with over 15 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and machine learning.
+I'm **Felipe Andrade**, a **Data Analyst** and **PhD** with over 10 years of experience transforming complex real-world datasets into actionable insights through SQL, Python, Power BI, statistics, and machine learning.
 
 My background in scientific research has strengthened my analytical thinking, hypothesis-driven problem solving, and ability to design reproducible analytical workflows. Today, I apply these same skills to solve business problems in customer analytics, business intelligence, and data visualization.
 
