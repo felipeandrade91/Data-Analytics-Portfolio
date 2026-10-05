@@ -1,3 +1,353 @@
+# Felipe Andrade — Data Analytics & Data Science Portfolio
+
+I am a Data Analyst and Data Scientist with a PhD in Animal Biology and over 10 years of experience working with complex real-world datasets, quantitative methods, statistical modeling, and reproducible analytical workflows.
+
+I use **Python, SQL, R, statistics, machine learning, and Power BI** to transform raw data into analytical models, insights, visualizations, and decision-support solutions.
+
+This repository is an index of my main projects across **Data Analytics, Business Intelligence, Customer Analytics, Statistical Analysis, Machine Learning, Experimentation, and Data Engineering**.
+
+## Choose a path
+
+### Data Analyst / BI
+
+Projects focused on:
+
+- SQL and PostgreSQL
+- Analytical data modeling and star schemas
+- Data quality and semantic layers
+- KPI design and business metrics
+- Power BI and DAX
+- Exploratory analysis and data visualization
+- Customer Analytics and business storytelling
+
+### Data Science
+
+Projects focused on:
+
+- Statistical analysis and hypothesis testing
+- Predictive modeling and machine learning
+- Time-series forecasting
+- Feature engineering and model evaluation
+- Customer churn and customer value
+- A/B testing and causal inference
+- Reproducible analytical workflows
+
+## Featured projects
+
+### Data Analyst / BI
+
+| Project | Focus | Main technologies |
+|---|---|---|
+| [Customer Analytics for Brazilian E-commerce](https://github.com/felipeandrade91/Customer-Analytics-for-Brazilian-E-commerce ) | Analytics Engineering, BI, customer and operational analytics | PostgreSQL, SQL, Power BI, DAX, Star Schema |
+| [Customer Segmentation & Customer Lifetime Value](https://github.com/felipeandrade91/customer-segmentation-clv ) | Customer intelligence, segmentation and customer value | PostgreSQL, SQL, Python, Pandas, RFM, CLV |
+| [GBIF Amphibian Data Analysis](https://github.com/felipeandrade91/GBIF-Brazilian-Amphibian-Biodiversity-Analysis ) | Exploratory, spatial and temporal analysis | Python, Pandas, Plotly, GLM |
+| [Brazilian Anuran Biodiversity Dashboard](https://github.com/felipeandrade91/Brazilian-Anuran-Biodiversity-Dashboard ) | Biodiversity indicators and interactive reporting | Power BI, DAX |
+
+### Data Science
+
+| Project | Focus | Main technologies |
+|---|---|---|
+| [Sales Forecasting — Rossmann Stores](https://github.com/felipeandrade91/sales-forecasting-rossmann ) | Retail forecasting and predictive modeling | Python, PostgreSQL, Pandas, Scikit-learn, XGBoost |
+| [Customer Churn — Modeling and API](https://github.com/felipeandrade91/customer-churn-prediction ) · [API repository](https://github.com/felipeandrade91/customer-churn-api ) | Classification, model evaluation and deployment | Python, SQL, Scikit-learn, XGBoost, FastAPI, Docker |
+| [Causal Inference & Experimentation](https://github.com/felipeandrade91/causal-inference-experimentation ) | A/B testing, treatment effects and incrementality | Python, EconML, PSM, IPW, DML, Causal Forest |
+| Customer Value Analytics | Analytical foundation, customer features, segmentation and CLV | PostgreSQL, SQL, Python, Pandas, RFM, CLV |
+
+## Project summaries
+
+### Customer Analytics for Brazilian E-commerce
+
+An end-to-end Analytics Engineering and Business Intelligence project using the Brazilian E-Commerce Public Dataset.
+
+The project transforms raw transactional data into a structured analytical environment with:
+
+- PostgreSQL data ingestion
+- Data quality validation
+- Star Schema dimensional modeling
+- SQL-based semantic views
+- Business-oriented analytical queries
+- Power BI dashboards and DAX measures
+- Analysis of sales, customers, logistics, delivery performance, sellers, payments, and satisfaction
+
+The dataset contains approximately **100,000 Brazilian e-commerce orders**. The project answers business questions related to revenue, customer behavior, delivery performance, seller performance, and customer satisfaction.
+
+This project also provides the analytical foundation for the complementary [Customer Segmentation & Customer Lifetime Value](https://github.com/felipeandrade91/customer-segmentation-clv ) project.
+
+### Customer Segmentation & Customer Lifetime Value
+
+A customer intelligence project built on top of transactional data from the e-commerce analytics workflow.
+
+The project includes:
+
+- Customer-level feature engineering
+- RFM segmentation
+- Historical Customer Lifetime Value analysis
+- Revenue concentration analysis
+- Customer value distributions
+- Customer prioritization and retention-oriented insights
+- SQL and Python analytical workflows
+
+The objective is to move from transaction-level data to customer-level insights that can support retention, prioritization, and customer value strategies.
+
+### Sales Forecasting — Rossmann Stores
+
+A machine learning project for retail sales forecasting.
+
+The workflow includes:
+
+- PostgreSQL-based data preparation
+- Exploratory time-series analysis
+- Temporal feature engineering
+- Lag and rolling-window features
+- Regression modeling
+- Comparison of Linear Regression, Random Forest, and XGBoost
+- Evaluation using MAE, RMSE, and R²
+- Feature importance analysis
+- Retail-oriented forecasting insights
+
+The current project reports the following performance for the final XGBoost model:
+
+- **MAE:** 530.89
+- **RMSE:** 822.87
+- **R²:** 0.954
+
+The repository documents the modeling workflow and the use of machine learning for retail demand forecasting. Validation strategy, baseline comparisons, and error analysis are important parts of the ongoing project documentation.
+
+### Customer Churn — Modeling and API
+
+An end-to-end customer churn project covering model development and deployment.
+
+The modeling repository includes:
+
+- PostgreSQL-based data preparation
+- SQL data quality validation
+- Analytical dataset construction
+- Exploratory Data Analysis
+- Feature engineering
+- Classification model development
+- Comparison of Logistic Regression, Random Forest, and XGBoost
+- Model evaluation and feature importance analysis
+- Retention-oriented business interpretation
+
+The complementary API repository extends the modeling workflow with:
+
+- FastAPI REST service
+- Pydantic input validation
+- Scikit-learn Pipeline inference
+- Model serialization with Joblib
+- Automated tests with Pytest
+- Docker and Docker Compose
+- Interactive Swagger documentation
+
+Together, the two repositories demonstrate the progression from:
+
+Data preparation → Modeling → Evaluation → API → Testing → Containerization
+
+## Causal Inference & Experimentation
+
+A project focused on measuring incremental effects and comparing experimental and observational approaches.
+
+The project includes:
+
+- A/B testing and randomized experiment analysis
+- Average Treatment Effect estimation
+- Confidence intervals and statistical inference
+- Propensity Score Matching
+- Inverse Probability Weighting
+- Double Machine Learning
+- Conditional Average Treatment Effect estimation
+- Causal Forest modeling
+- Treatment effect heterogeneity
+- Incrementality-oriented marketing analysis
+- Comparison of experimental, observational, and machine-learning-based estimates
+
+The project emphasizes the importance of assumptions, identification, diagnostics, uncertainty, and the distinction between prediction and causal inference.
+
+## GBIF Amphibian Data Platform and Analysis
+
+A combined data engineering and analytical workflow using biodiversity data from GBIF.
+
+### ETL component
+
+- SQL-based data ingestion and transformation
+- Large-scale data cleaning
+- Schema normalization
+- Regex-based standardization
+- Feature engineering
+- Data quality assessment
+
+### Analytical component
+
+- Exploratory Data Analysis
+- Spatial analysis
+- Temporal trend analysis
+- Poisson GLM regression
+- Species accumulation curves
+- Rarefaction analysis
+- Sampling bias detection
+- Interactive Plotly visualizations
+
+This project demonstrates the application of reproducible data workflows and statistical analysis to heterogeneous observational data.
+
+## Brazilian Anuran Biodiversity Dashboard
+
+An interactive Power BI dashboard for exploring Brazilian anuran biodiversity data.
+
+The dashboard includes:
+
+- Executive KPIs
+- Taxonomic diversity analysis
+- Geographic analysis
+- Temporal analysis
+- Interactive filtering
+- Business-style dashboard design
+
+## NYC Taxi Data Engineering Platform
+
+An end-to-end lakehouse and data engineering project built with Databricks, PySpark, and Delta Lake.
+
+The pipeline processes more than **38 million NYC Yellow Taxi trips** using:
+
+- Medallion Architecture
+- Bronze, Silver, and Gold layers
+- Incremental monthly processing
+- Delta Lake storage
+- Data quality validation
+- Referential integrity checks
+- Dimensional analytical modeling
+- Fact and dimension tables
+- Reusable analytical Gold tables
+
+### Architecture
+
+Raw Parquet → Bronze → Silver → Gold → Analytics
+
+This project is included as a supporting project because it demonstrates scalable data processing and analytical data preparation rather than being a primary machine learning case.
+
+[View the project repository](#)
+
+## Meu Placar — Sports Analytics Dashboard
+
+An interactive web application for football performance analytics, including:
+
+- KPI dashboards
+- Time-series analysis
+- Historical performance tracking
+- Data visualization
+- Progressive Web App functionality
+
+[View the project repository](#)
+
+## Scientific Data Science Projects
+
+These repositories document the application of statistical modeling, multivariate analysis, machine learning, and reproducible scientific workflows to biological data.
+
+| Project | Main techniques |
+|---|---|
+| Pseudopaludicola coracoralinae | Random Forest, feature importance, statistical analysis |
+| Pseudopaludicola matuta | Random Forest, permutation statistics, multivariate analysis |
+| Pseudopaludicola florencei | Multiclass classification, machine learning |
+| A New Charismatic Monkey Frog | Statistical modeling, morphometrics, machine learning |
+
+## Skills and Technologies
+
+### Analytics and Business Intelligence
+
+- Business Intelligence
+- Analytics Engineering
+- Customer Analytics
+- Customer Segmentation
+- Customer Lifetime Value
+- KPI Design
+- Dashboard Development
+- Data Visualization
+- Business Storytelling
+- SQL Analytics
+- Data Modeling
+- Star Schema
+- Semantic Layer Design
+- ETL Pipelines
+
+### Statistics and Data Science
+
+- Exploratory Data Analysis
+- Statistical Inference
+- Hypothesis Testing
+- A/B Testing
+- Causal Inference
+- Treatment Effect Estimation
+- Propensity Score Methods
+- Double Machine Learning
+- Causal Forests
+- Incrementality Analysis
+- Parametric and Non-parametric Statistics
+- Permutation Tests
+- Multivariate Analysis
+- Classification
+- Regression
+- Feature Engineering
+- Predictive Modeling
+- Time-Series Forecasting
+- Ensemble Learning
+- Model Evaluation
+- Model Interpretation
+
+### Tools and Technologies
+
+- Python
+- SQL
+- R
+- PostgreSQL
+- Power BI
+- DAX
+- Power Query (M)
+- Pandas
+- Scikit-learn
+- XGBoost
+- PySpark
+- Databricks
+- Delta Lake
+- Parquet
+- FastAPI
+- Pydantic
+- Docker
+- Docker Compose
+- Pytest
+- Joblib
+- Jupyter Notebook
+- Git
+- GitHub
+- Excel
+- DBeaver
+
+## Selected Achievements
+
+- 28 peer-reviewed scientific publications
+- Participation in the description of 13 new amphibian species
+- More than 10 years working with complex quantitative datasets
+- Experience combining scientific research, statistical analysis, and business analytics
+- Extensive experience with reproducible analytical workflows
+
+## Contact
+
+- [GitHub](#)
+- [LinkedIn](#)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Data Analytics Portfolio
 
 Welcome!
